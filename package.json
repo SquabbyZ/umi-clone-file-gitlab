@@ -1,5 +1,5 @@
 {
-  "name": "@peaks/umi-clone-file-gitlab",
+  "name": "@peakszhu/umi-clone-file-gitlab",
   "version": "1.1.0",
   "description": "umijs框架的插件包，实现从其他仓拉取文件到当前仓库",
   "main": "src/index.ts",
@@ -32,6 +32,9 @@
     "standard-version": "^9.5.0",
     "typescript": "^5.9.3",
     "umi": "^4.5.3"
+  },
+  "publishConfig": {
+    "access": "public"
   },
   "dependencies": {
     "axios": "^1.12.2",
