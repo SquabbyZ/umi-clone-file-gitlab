@@ -2,6 +2,15 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/SquabbyZ/umi-clone-file-gitlab/compare/v1.2.1...v1.3.0) (2025-10-22)
+
+
+### Features
+
+* 调整package ([0b36eae](https://github.com/SquabbyZ/umi-clone-file-gitlab/commit/0b36eaeba8dccc53ffafac0477524da288a715f0))
+* 提交lib构建完的文件 ([74ae959](https://github.com/SquabbyZ/umi-clone-file-gitlab/commit/74ae9596bfb1d364599ea28a35f0a0dd13b73b40))
+* 添加.npmignore文件 ([ed8143e](https://github.com/SquabbyZ/umi-clone-file-gitlab/commit/ed8143e79dc02a8297f8fd47821bb6c9494fb60f))
+
 ### [1.2.1](https://github.com/SquabbyZ/umi-clone-file-gitlab/compare/v1.2.0...v1.2.1) (2025-10-22)
 
 ## [1.2.0](https://github.com/SquabbyZ/umi-clone-file-gitlab/compare/v1.1.0...v1.2.0) (2025-10-22)
