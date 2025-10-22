@@ -11,7 +11,7 @@
     "release": "standard-version",
     "pack": "npm pack",
     "login": "npm login",
-    "publish": "pnpm run release && npm publish --ignore-scripts"
+    "publish": "npm publish --access public --ignore-scripts"
   },
   "umi": {
     "plugins": [
