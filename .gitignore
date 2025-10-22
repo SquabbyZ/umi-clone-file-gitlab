@@ -2,7 +2,6 @@
 node_modules/
 
 # TypeScript
-lib/
 *.tsbuildinfo
 
 # Logs
