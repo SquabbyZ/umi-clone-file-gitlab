@@ -1,0 +1,27 @@
+# 忽略开发相关和无用文件，发布包更精简
+node_modules/
+.git/
+.gitignore
+.vscode/
+.idea/
+coverage/
+test/
+tests/
+__tests__/
+*.log
+*.md
+*.tsbuildinfo
+pnpm-lock.yaml
+yarn.lock
+package-lock.json
+
+# TypeScript 源码（如只发布编译后的 lib/）
+src/
+
+# 只发布 lib/ 或 dist/ 时可忽略
+build/
+dist/
+
+# 其他可选
+.env*
+*.local
