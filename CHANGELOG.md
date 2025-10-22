@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/SquabbyZ/umi-clone-file-gitlab/compare/v1.4.0...v1.5.0) (2025-10-22)
+
+
+### Features
+
+* 调整入口配置 ([4517ece](https://github.com/SquabbyZ/umi-clone-file-gitlab/commit/4517ece6970a9dfa3b3bd9bd9e265153fb32d81c))
+
 ## [1.4.0](https://github.com/SquabbyZ/umi-clone-file-gitlab/compare/v1.3.0...v1.4.0) (2025-10-22)
 
 
