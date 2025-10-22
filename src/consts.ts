@@ -1,0 +1,1 @@
+export const nameKey = 'PeaksCopy';
