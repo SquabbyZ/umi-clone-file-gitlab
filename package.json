@@ -1,6 +1,6 @@
 {
   "name": "umi-clone-file-gitlab",
-  "version": "1.6.0",
+  "version": "1.6.1",
   "description": "umijs框架的插件包，实现从其他仓拉取文件到当前仓库",
   "main": "lib/src/index.js",
   "scripts": {
@@ -20,12 +20,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/<owner>/<repo>.git"
+    "url": "https://github.com/SquabbyZ/umi-clone-file-gitlab "
   },
   "bugs": {
-    "url": "https://github.com/<owner>/<repo>/issues"
+    "url": "https://github.com/SquabbyZ/umi-clone-file-gitlab/issues"
   },
-  "homepage": "https://github.com/<owner>/<repo>#readme",
+  "homepage": "https://github.com/SquabbyZ/umi-clone-file-gitlab/blob/main/README.md",
   "keywords": [
     "umi",
     "gitlab",
