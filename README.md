@@ -1,4 +1,4 @@
-# @peaks/umi-clone-file-gitlab
+# umi-clone-file-gitlab
 
 [中文](./README.zh.md) 🇨🇳 | [English](./README.md) 🇬🇧
 
@@ -15,9 +15,9 @@ A UmiJS plugin for cloning files from other GitLab repositories into your curren
 ## Installation
 
 ```bash
-pnpm add @peaks/umi-clone-file-gitlab --save-dev
+pnpm add umi-clone-file-gitlab --save-dev
 # or
-npm install @peaks/umi-clone-file-gitlab --save-dev
+npm install umi-clone-file-gitlab --save-dev
 ```
 
 ## Usage
@@ -27,7 +27,7 @@ Add the plugin to your UmiJS config:
 ```js
 // .umirc.ts or config/config.ts
 export default {
-  plugins: [require.resolve("@peaks/umi-clone-file-gitlab")],
+  plugins: [require.resolve("umi-clone-file-gitlab")],
   PeaksCopy: {
     url: "https://gitlab.example.com/api/v4/projects/123/repository/tree?path=docs&ref=main",
     outputPath: "./docs",

@@ -1,6 +1,6 @@
-# @peaks/umi-clone-file-gitlab
+# umi-clone-file-gitlab
 
-[中文](./README.zh.md) 🇨🇳 | [English](./README.md) 🇬🇧
+[中文](https://github.com/SquabbyZ/umi-clone-file-gitlab/blob/main/README.zh.md) 🇨🇳 | [English](./README.md) 🇬🇧
 
 一个用于将其他 GitLab 仓库文件克隆到当前 UmiJS 项目的插件。支持递归获取 Markdown 文件，并兼容多种 GitLab API 下载方式。
 
@@ -15,9 +15,9 @@
 ## 安装方法
 
 ```shell
-pnpm add @peaks/umi-clone-file-gitlab --save-dev
+pnpm add umi-clone-file-gitlab --save-dev
 # 或
-npm install @peaks/umi-clone-file-gitlab --save-dev
+npm install umi-clone-file-gitlab --save-dev
 ```
 
 ## 使用方法
@@ -27,7 +27,7 @@ npm install @peaks/umi-clone-file-gitlab --save-dev
 ```js
 // .umirc.ts 或 config/config.ts
 export default {
-  plugins: [require.resolve("@peaks/umi-clone-file-gitlab")],
+  plugins: [require.resolve("umi-clone-file-gitlab")],
   PeaksCopy: {
     url: "https://gitlab.example.com/api/v4/projects/123/repository/tree?path=docs&ref=main",
     outputPath: "./docs",
