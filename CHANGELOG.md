@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.6.0](https://github.com/<owner>/<repo>/compare/v1.5.0...v1.6.0) (2025-10-25)
+
+
+### Features
+
+* 更新README文档 ([21219fd](https://github.com/<owner>/<repo>/commit/21219fd6b0c830f7d521b14296c4b1970c6c571d))
+
 ## [1.5.0](https://github.com/SquabbyZ/umi-clone-file-gitlab/compare/v1.4.0...v1.5.0) (2025-10-22)
 
 
